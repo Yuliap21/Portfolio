@@ -2,11 +2,11 @@
 
 export const projects = [
   {
-    title: "21 Basketball Game",
-    subtitle: "MVP",
-    description: " Quiz game for Basketball knowledge",
-    image: "./project-1.gif",
-    link: ""
+    title: "Bookmarks-mini",
+    subtitle: "Node.js",
+    description: "Organize your thoughts",
+    image: "./project-1.png",
+    link: "https://bookmarks-mini.herokuapp.com/"
   },
   {
     title: "Little Fairy Online Store",
