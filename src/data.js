@@ -27,7 +27,7 @@ export const projects = [
     subtitle: "Project UX Design team",
     description: "Development of Website",
     image: "./project-4.png",
-    link: "https://pythonbootcamp.com"
+    link: "https://goodness-cake-project.herokuapp.com/"
   }
 ];
 
