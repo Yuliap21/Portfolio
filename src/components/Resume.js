@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from "react";
 import resume from "../resume/Myresume.pdf";
-//pdfjs.GlobalWorkerOptions.workerSrc = 'pdf.worker.min.js';
+
 import img from "../resume/resume-screen.png";
 import { TerminalIcon, UsersIcon } from "@heroicons/react/solid";
 
