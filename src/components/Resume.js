@@ -1,6 +1,4 @@
 import React, {useState, useEffect} from "react";
-import { Document, Page } from 'react-pdf';
-//import { pdfjs } from 'react-pdf';
 import resume from "../resume/Myresume.pdf";
 //pdfjs.GlobalWorkerOptions.workerSrc = 'pdf.worker.min.js';
 import img from "../resume/resume-screen.png";
@@ -37,7 +35,7 @@ export default function getResume() {
      </div>
      </div>
      </div>
-     
+
         </section>
   );
 }

@@ -1,6 +1,6 @@
 {
   "engines": {
-    "node": "=14.17.3"
+    "node": "14.17.3"
   },
   "name": "my-portfolio",
   "version": "0.1.0",
