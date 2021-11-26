@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from "react";
-import resume from "../resume/Myresume.pdf";
+import resume from "../resume/Penyevskaya Resume-2.pdf";
 
 import img from "../resume/Penyevskaya-Resume-2.png";
 import { TerminalIcon, UsersIcon } from "@heroicons/react/solid";
