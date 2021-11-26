@@ -1,7 +1,7 @@
 import React, {useState, useEffect} from "react";
 import resume from "../resume/Myresume.pdf";
 
-import img from "../resume/resume-screen.png";
+import img from "../resume/Penyevskaya-Resume-2.png";
 import { TerminalIcon, UsersIcon } from "@heroicons/react/solid";
 
 export default function getResume() {
